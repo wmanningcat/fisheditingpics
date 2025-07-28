@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Julia's Fish Editing Services</title>
+  <title>Specimen Studios Fish Editing Services</title>
   <style>
     body {
       font-family: sans-serif;
@@ -57,13 +57,13 @@
 </head>
 <body>
   <header>
-    <h1>Julia's Fish Editing Services</h1>
+    <h1>Specimen Studios Fish Editing Services</h1>
     <p>Professional editing and background removal for ichthyology images</p>
   </header>
 
   <section>
     <h2>What I Do</h2>
-    <p>I specialize in editing fish specimen images for scientific publication. Whether you need clean background removal, subtle enhancement, or figure assembly for journals, I provide high-quality edits tailored to ichthyologists and taxonomists.</p>
+    <p>I specialize in editing fish specimen images for scientific publication.I provide high-quality edits tailored to ichthyologists and taxonomists for if you clean background removal, subtle enhancement, or figure assembly for journals, .</p>
     <ul>
       <li>Background removal (white, black, or transparent)</li>
       <li>Image enhancement (color, contrast, clarity)</li>
@@ -85,7 +85,7 @@
 
   <section id="contact">
     <h2>Get in Touch</h2>
-    <p>Interested in working together? I'd love to hear from you! Email me at <strong>juliasfishphoto@gmail.com</strong> or send me a message below:</p>
+    <p>Interested in working together? I'd love to hear from you! Email me at <strong>juliavmanningo@gmail.com</strong> or send me a message below:</p>
     <form action="https://formspree.io/f/your-form-id" method="POST">
       <label>Your Name:<br><input type="text" name="name" required></label><br><br>
       <label>Your Email:<br><input type="email" name="email" required></label><br><br>
@@ -93,6 +93,12 @@
       <button class="button" type="submit">Send Message</button>
     </form>
   </section>
+
+  <footer>
+    &copy; 2025 Julia Manning. Fish photo editing with a scientific touch.
+  </footer>
+</body>
+</html>
 
   <footer>
     &copy; 2025 Julia Manning. Fish photo editing with a scientific touch.
